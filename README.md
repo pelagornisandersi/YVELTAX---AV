@@ -131,9 +131,8 @@ main.py
 ## Screenshots
 
 
-markdown
+
 ![Scanner](screenshots/scanner.png)
-![Detection](screenshots/detection.png)
 
 
 ---
