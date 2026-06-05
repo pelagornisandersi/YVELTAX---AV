@@ -131,10 +131,10 @@ main.py
 ## Screenshots
 
 
-```markdown
+markdown
 ![Scanner](screenshots/scanner.png)
 ![Detection](screenshots/detection.png)
-```
+
 
 ---
 
