@@ -158,7 +158,7 @@ Do not use this project for unauthorized or malicious activities.
 - Scan scheduling
 - Threat severity levels
 - Dashboard analytics
-- Automatic signature updates
+- Automatic signature updates 
 - Linux desktop integration
 - AppImage packaging
 
